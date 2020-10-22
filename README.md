@@ -1,6 +1,7 @@
 # xylophone
 
 A new Flutter application.
+## A simple flutter app in xylophone sounds plays on tapping different colours
 ![Screenshot (43)](https://user-images.githubusercontent.com/42409905/96906393-602c0380-14b7-11eb-8aa1-241171f288f5.png)
 ## Getting Started
 
